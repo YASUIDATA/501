@@ -1,2 +1,3 @@
 vless://0396429c-1c8c-42b3-8a46-43dd381e842b@yasuidata.xyz:443?type=tcp&security=reality&pbk=wuLHW9dN_zRMm20SavjO0ytthoDyn3qaypGSF9QrsE0&fp=chrome&sni=www.softbank.jp&sid=981108ad2eb6c6&spx=%2F&flow=xtls-rprx-vision#FAST-501
 vless://66e9d71b-8e27-4488-93c3-4fdb86c18965@v3b.yasuidata.xyz:443?type=tcp&security=reality&pbk=M47txNWsav3pjxSi-W1vEndurOzcsmSn1h9NlEqciXs&fp=chrome&sni=www.softbank.jp&sid=68&spx=%2F&flow=xtls-rprx-vision#FULL%20DUNG%20LUONG-501
+vless://31886966-5eaf-4e5c-b882-6e7dd6cb6e15@yasuidata.xyz:27206?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-LTT%20501
